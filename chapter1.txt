@@ -1,3 +1,5 @@
 This is the first chapter.
 
 In this chapter, we will look at the configuration of the application
+
+The configuration is using a specific tool
